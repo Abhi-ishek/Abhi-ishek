@@ -5,7 +5,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Abhishek-Prajapati&label=Profile%20Views&color=00f7ff&style=for-the-badge" /> <img src="https://img.shields.io/github/followers/Abhishek-Prajapati?style=for-the-badge&color=00f7ff&labelColor=111111" /> </p>
 
 ⚡ About Me
-const abhishek = {
+<div width="50%" >
+<div>
+    const abhishek = {
     role: "Full Stack Developer",
     education: "B.Tech CSE",
     location: "India",
@@ -28,6 +30,11 @@ const abhishek = {
 
     mindset: "Build → Break → Debug → Improve → Repeat"
 };
+</div>
+<div>
+    
+</div>
+    Frontend
 <p> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" /> </p>
 
 Backend
@@ -37,6 +44,8 @@ Backend
 Tools & DevOps
 
 <p> <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,vscode" /> </p>
+
+</div>
 
 📊 GitHub Analytics
 

@@ -28,3 +28,38 @@ const abhishek = {
 
     mindset: "Build → Break → Debug → Improve → Repeat"
 };
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" /> </p>
+
+Backend
+
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma" /> </p>
+
+Tools & DevOps
+
+<p> <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,vscode" /> </p>
+
+📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Abhishek-Prajapati&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Prajapati&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Abhishek-Prajapati&theme=tokyonight&hide_border=true" />
+
+</p>
+
+🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Abhishek-Prajapati/Abhishek-Prajapati/output/github-contribution-grid-snake.svg" />
+
+</p>

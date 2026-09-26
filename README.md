@@ -1,6 +1,6 @@
-<div align="center" width="70%">
+<div align="center" ">
 
-<img width="70%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There,%20I'm%20Your%20Name%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There,%20I'm%20Your%20Name%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <br/>
 
@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<table width="70%">
+<table >
 <tr>
 <td width="50%" valign="top">
 
@@ -32,7 +32,7 @@
 
 <br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" />
 
 <br/><br/>
 
@@ -50,7 +50,7 @@
 
 ### 🐍 Contribution Snake
 
-<img width="70%" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
+<img  src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
 
 <br/><br/>
 
@@ -64,7 +64,7 @@
 
 <br/>
 
-<img width="70%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<img  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 <br/>
 
